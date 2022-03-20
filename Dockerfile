@@ -1,5 +1,5 @@
 FROM nikolaik/python-nodejs
-LABEL MAINTAINER https://github.com/DIYgod/download-webhook
+LABEL MAINTAINER https://github.com/A0nameless0man/download-webhook
 
 WORKDIR /app
 
