@@ -1,0 +1,1 @@
+docker build -t a0nameless0man/download-webhook:latest ./
